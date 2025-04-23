@@ -1,0 +1,185 @@
+Tango related wiki pages
+https://en.wikipedia.org/wiki/
+
+CATEGORIES
+
+Category:Urban_street_dance_and_music
+
+Portal:Tango
+Category:Tango
+  Category:Tango_by_country
+    Category:Tango_in_Argentina
+      Category:Argentine_bandoneonists
+      Category:Argentine_tango
+        Category:Argentine_tango_lyricists
+        Category:Argentine_tango_musicians
+    Category:Tango_in_Uruguay
+      Category:Uruguayan_tango_musicians
+    Category:Tango_in_the_United_States
+    Category:Tango_in_Japan
+      Category:Japanese_bandoneonists
+  Category:Books_about_tango
+  Category:Tango_albums
+  Category:Tango_films
+  Category:Tango_dance
+    Category:Tango_dancers
+  Category:Tango_people
+  Category:Tangos
+
+Category:Tango_musicians
+  Category:Argentine_tango_musicians
+
+Category:Argentine_songs
+
+PAGES
+
+Tango
+Argentine_tango
+Tango_(disambiguation)
+Tango_music
+Milonga_(dance)
+Candombe
+UNESCO_Intangible_Cultural_Heritage_Lists
+History_of_the_tango
+R%C3%ADo_de_la_Plata
+Rioplatense
+Argentina
+Buenos_Aires
+Montevideo
+La_Boca
+San_Telmo
+San_Telmo,_Buenos_Aires
+Boedo
+C%C3%A1tulo_Castillo
+Homero_Manzi
+Finland
+Paris
+Juan_Per%C3%B3n
+Mariano_Mores
+Osvaldo_Peredo_(musician)
+Lead_and_follow
+Leading_and_following
+Tango_Liso
+Tango_canyengue
+Milonguero
+Milonguero_style
+Tango_nuevo
+Nuevo_tango
+Ballroom_tango
+Finnish_tango
+Uruguayan_tango
+Maxixe_(dance)
+  Brazilian_tango
+%C3%81stor_Piazzolla
+Electrotango
+Bajofondo_Tango_Club
+Closed_position
+Close_embrace
+Boleo
+Gancho_(dance_move)
+Arrastre
+Sacada_(tango)
+Quebrada_(tango)
+List_of_tango_singers
+Carlos_Gardel
+Julio_Sosa
+Milonga_(place)
+World_tango_dance_tournament
+Queer_Tango
+Milonga_(music)
+Vals_(music)
+Vals
+  Tango_waltz
+Neotango
+Bandoneon
+Orquesta_t%C3%ADpica
+Vals_(dance)
+Ronda_(tango)
+Figures_of_Argentine_tango
+Milonga_(dance_event)
+Practica_(event)
+Cortina_(tango)
+Tanda_(milonga)
+Ronda_(tango)
+It_takes_two_to_tango
+Tango_Argentino_(musical)
+Tango_Argentino_(film)
+Osvaldo_Pugliese
+Francisco_Canaro
+Carlos_di_Sarli
+Juan_D%27Arienzo
+Nostalgia
+Music_of_Argentina
+Scent_of_a_Woman_(1992_film)
+The_Tango_Lesson
+Jalousie_(Gade)
+  Tango_Jalousie
+La_cumparsita
+List_of_public_domain_tangos
+Nostalgias_(tango)
+El_Choclo
+Por_una_Cabeza
+La_yumba
+Adi%C3%B3s_Nonino
+Tango:_Zero_Hour
+Gustavo_Naveira
+Turkish_tango_music
+Alberto_Paz
+Roberto_Herrera
+Mariano_Fr%C3%BAmboli
+Tangolates
+Julio_de_Caro
+  National_Tango_Day
+Ben_Molar
+List_of_dances
+Juan_Carlos_Copes
+Recoleta,_Buenos_Aires
+Bajofondo
+So_You_Think_You_Can_Dance_(American_TV_series)_season_??
+Dancing_with_the_Stars_(American_TV_series)
+TangoVia_Buenos_Aires
+Rodolfo_Biagi
+Ricardo_Tanturi
+Evaristo_Carriego
+German_Cornejo_%26_Gisela_Galeassi
+Nicole_Nau
+Lorena_Ermocida
+Ana_Mar%C3%ADa_Stekelman
+The_Rough_Guide_to_Tango_(1999_album)
+Al_and_Barbara_Garvey
+Dance_notation
+Abasto_de_Buenos_Aires
+An%C3%ADbal_Troilo
+Hernando%27s_Hideaway
+Glossary_of_partner_dance_terms
+Norberto_Esbrez
+Latin_Grammy_Award_for_Best_Tango_Album
+21st_Annual_Premios_Gardel
+Medell%C3%ADn
+En_Vivo_(Selecci%C3%B3n_Nacional_de_Tango_album)
+Culture_of_Argentina
+Lunfardo
+Carlos_Saura
+The_Lone_Gunmen_(TV_series)
+Dance_and_health
+Dance_film
+Dance_in_film
+Dance_on_television
+Dance_technology
+Digital_theatre
+List_of_partner_dance_books
+Jack_and_Jill_(dance)
+Index_of_dance_articles
+
+
+---------
+TOOLS
+
+https://www.mediawiki.org/wiki/API:Main_page
+https://en.wikipedia.org/w/api.php
+https://test.wikipedia.org/w/api.php
+
+https://www.mediawiki.org/w/api.php?action=help&modules=query
+
+https://en.wikipedia.org/wiki/Special:SpecialPages
+https://en.wikipedia.org/wiki/Special:WhatLinksHere?target=tango&namespace=0&limit=50

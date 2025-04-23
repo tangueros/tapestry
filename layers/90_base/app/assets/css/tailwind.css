@@ -1,0 +1,7 @@
+/*
+@plugin "@tailwindcss/typography";
+@import "tailwindcss" theme(static);
+*/
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@import '@nuxt/ui';
