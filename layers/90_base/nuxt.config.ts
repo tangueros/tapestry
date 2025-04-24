@@ -19,7 +19,7 @@ export default defineNuxtConfig({
 
   app: {
     //NUXT_APP_BASE_URL
-    //baseURL: "/impressum/",
+    baseURL: "/tapestry/",
   },
   routeRules: {
     '/**': { isr: true },
