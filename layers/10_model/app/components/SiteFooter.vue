@@ -12,6 +12,7 @@ ChromeFooter()
 
   template(#left)
   template(#right)
+    DarkPref
 
   template(#bottom)
       div(v-for="i in foot.socials")

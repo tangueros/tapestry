@@ -4,4 +4,9 @@ export default defineNuxtConfig({
   future: {
     compatibilityVersion: 4,
   },
+
+  app: {
+    //NUXT_APP_BASE_URL
+    baseURL: "/tapestry/",
+  },
 })
