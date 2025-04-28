@@ -1,7 +1,7 @@
 <template lang="pug">
 .prose
-  //ContentRenderer(v-if="page" :value="page")
-  p THIS PAGE IS TO BE DEFINED
+  ContentRenderer(v-if="page" :value="page")
+
 UBadge pages fetched {{route.path}}
 
 </template>"

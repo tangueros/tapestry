@@ -7,9 +7,12 @@ export default defineNuxtConfig({
   future: { compatibilityVersion: 4, },
   compatibilityDate: '2025-02-20',
 
+  devtools: {enabled: true },
+
   devServer: {
     host: '0.0.0.0',
     port: 3000,
+
   },
   vite: {
     server: {
@@ -22,12 +25,12 @@ export default defineNuxtConfig({
     //baseURL: "/tapestry/",
   },
   routeRules: {
-    '/**': { isr: true },
-    '/': { prerender: true },
+    //? '/**': { isr: true },
+    //? '/': { prerender: true },
   },
   nitro: {
     prerender: {
-      routes: ['/'],
+      //? routes: ['/'],
       //crawlLinks: true,
     }
   },

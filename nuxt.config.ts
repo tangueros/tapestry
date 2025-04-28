@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  devtools: {enabled: false },
+  //devtools: {enabled: false },
   compatibilityDate: '2025-02-20',
   future: {
     compatibilityVersion: 4,
@@ -9,4 +9,8 @@ export default defineNuxtConfig({
     //NUXT_APP_BASE_URL
     baseURL: "/tapestry/",
   },
+
+  ignore: [
+    //"app/pages/dummy.vue",
+  ]
 })
