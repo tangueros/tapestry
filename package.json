@@ -10,7 +10,7 @@
     "prepare": "nuxi prepare"
   },
   "devDependencies": {
-    "nuxt": "^3.17.0",
+    "nuxt": "^3.17.1",
     "pug": "^3.0.3"
   },
   "dependencies": {
