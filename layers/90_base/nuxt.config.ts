@@ -26,15 +26,24 @@ export default defineNuxtConfig({
   },
   routeRules: {
     //? '/**': { isr: true },
-    //? '/': { prerender: true },
+    //? '/': { prerender: cdtrue },
   },
   nitro: {
+    //doc in https://nitro.build/config
     prerender: {
-      routes: ['/'],
-      //crawlLinks: true,
       // Workaround for "Error: [404] Page not found: /manifest.json"
+      //autoSubfolderIndex: false, //true,
+      //concurrency: 1,
+      //interval: 0,
       failOnError: false,
+      //crawlLinks: true,
+      //ignore: [],
+      routes: ['/'],
+      //retry: 3,
+      //retryDelay: 500,
     },
+    logLevel: 4,
+
   },
 
 
