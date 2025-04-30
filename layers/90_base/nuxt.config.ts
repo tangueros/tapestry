@@ -30,7 +30,7 @@ export default defineNuxtConfig({
   },
   nitro: {
     prerender: {
-      //? routes: ['/'],
+      routes: ['/'],
       //crawlLinks: true,
       // Workaround for "Error: [404] Page not found: /manifest.json"
       failOnError: false,
